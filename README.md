@@ -22,3 +22,10 @@ pandas, numpy, matplotlib, seaborn
 
 ---
 
+# WPP Population Dataset — Прогнозирование численности населения
+
+Датасет: [WPP Population by Age and Sex](https://www.kaggle.com/datasets/ahmethoso/wpp-population-by-age-and-sex)
+
+Описание: Анализ и обработка данных по численности населения по возрастным группам. Данные основаны на World Population Prospects (WPP) — официальных демографических данных ООН.
+
+Используемые библиотеки: pandas, numpy, matplotlib, seaborn
