@@ -22,10 +22,13 @@ pandas, numpy, matplotlib, seaborn
 
 ---
 
-# WPP Population Dataset — Прогнозирование численности населения
+# Building Emergency Dataset — Распознавание состояния аварийности здания
 
-Датасет: [WPP Population by Age and Sex](https://www.kaggle.com/datasets/ahmethoso/wpp-population-by-age-and-sex)
+Датасет: [ГИС ЖКХ — Износ и аварийность многоквартирных домов](https://tochno.st/datasets/gisgkh)
 
-Описание: Анализ и обработка данных по численности населения по возрастным группам. Данные основаны на World Population Prospects (WPP) — официальных демографических данных ООН.
+Описание: Набор данных для обучения модели классификации текстовых документов и табличных данных, содержащих информацию о техническом состоянии зданий и сооружений. Задача — определить, находится ли здание в аварийном состоянии или требует капитального ремонта.
 
-Используемые библиотеки: pandas, numpy, matplotlib, seaborn
+Используемые библиотеки: pandas, numpy, matplotlib, seaborn, scikit-learn, nltk
+
+---
+
