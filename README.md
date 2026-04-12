@@ -3,13 +3,12 @@
 # Прогнозирование численности населения
 
 Датасет:
-https://www.kaggle.com/datasets/ahmethoso/wpp-population-by-age-and-sex
+https://www.kaggle.com/datasets/pradeepkumar2424/usa-banking-transactions-dataset-2023-2024
 
 Описание:
-Анализ и обработка данных по численности населения по возрастным группам.
+Этот датасет содержит данные о банковских транзакциях в США за 2023–2024 годы, включая суммы, типы операций, отправителей, получателей и временные метки для анализа финансовой активности.
 
-Используемые библиотеки:
-pandas, numpy, matplotlib, seaborn
+Используемые библиотеки: pandas, numpy, matplotlib, seaborn
 
 
 # AgeVision Dataset — Распознавание возраста по изображению лица
