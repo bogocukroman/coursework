@@ -33,3 +33,9 @@ https://www.kaggle.com/datasets/pradeepkumar2424/usa-banking-transactions-datase
 
 ---
 
+# VIRAT Video Dataset - Распознавание событий в видеопотоке
+
+Описание: Набор данных для обучения модели распознавания событий в видео наблюдения. Содержит непрерывные видеозаписи с фиксированных наземных камер, а также аэросъёмку. Задача — определить тип события (действие человека, взаимодействие с транспортным средством и т.д.) в видеопотоке и его временные границы
+
+Используемые библиотеки:  pandas, numpy, matplotlib.pyplot, seaborn, sklearn, scipy, plotly.express, statsmodels.api, statsmodels.tsa.seasonal 
+ 
